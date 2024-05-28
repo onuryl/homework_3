@@ -1,0 +1,38 @@
+{
+  "persons": [
+    {
+      "person number": 1,
+      "name": "Onur",
+      "surname": "Yılmaz",
+      "age": 32,
+      "company": "Gobito Bilişim",
+      "height": 180
+    },
+    {
+      "person number": 2,
+      "name": "Tuğba",
+      "surname": "Yalçın",
+      "age": 27,
+      "company": "Türk Hava Yolları",
+      "height": 165
+    },
+    {
+      "person number": 3,
+      "name": "Kerem",
+      "surname": "Altundağ",
+      "age": 30,
+      "company": "Turkcell",
+      "height": 177
+    },
+    {
+      "person number": 4,
+      "name": "Ayşe",
+      "surname": "Yılmaz",
+      "age": 44,
+      "company": "Netaş",
+      "height": 170
+    }
+    ]
+
+}
+
